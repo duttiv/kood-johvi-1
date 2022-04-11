@@ -1,2 +1,2 @@
-# Kood/Jõhvi workshop project
-Chooce your poison!
+# Kood/JÃµhvi workshop project
+Choose your poison!
